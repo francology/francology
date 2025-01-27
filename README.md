@@ -1,5 +1,8 @@
 # Hello, I'm FRANK
-<a href="[https://linkedin.com](https://www.linkedin.com/in/frank-urhioke-783aa9255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/frank-urhioke-783aa9255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
 
 Experienced IT professional with 3+ years of expertise in IT support, system troubleshooting and incident response investigation. Strong background in diagnosing and resolving technical issues, managing systems and networks, and securing IT infrastructure. I possess the Ability to communicate technical information to IT members, users, or clients in a collaborative environment. Equipped with a master’s degree in IT Security and certified in industry-leading standards including CC by ISC2, CompTIA Security+ and Azure 104. Proven ability to thrive in fast-paced environments, handle multiple projects, and maintain system integrity while adhering to compliance standards.
